@@ -4,6 +4,11 @@ I hate the Venus Sigil minigame
 I'm running this on `Python 3.12.4`. Download it from [this link](https://www.python.org/downloads/);
 This runs on windows, I haven't tried running it on Linux (I dont even know if the game can run on Linux, probably can)
 
+## How to run
+
+Download this repo, install the dependencies with `pip install -r .\req.txt` and then run with `python '.\lightning dodge.py'`
+
+## Disclaimer
 To make this run sucessfully you will need to do a few steps with your game:
 - Run on window mode, with a resolution big enough to fit your whole screen
 - Play on mouse and keyboard (this might work with controller but I didnt test it out)
